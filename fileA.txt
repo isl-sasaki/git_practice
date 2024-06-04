@@ -6,3 +6,4 @@ restore --staged
 3-way-merge
 conflict
 squash
+squash2
