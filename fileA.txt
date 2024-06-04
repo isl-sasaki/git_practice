@@ -5,3 +5,4 @@ diff
 restore --staged
 3-way-merge
 conflict
+squash
