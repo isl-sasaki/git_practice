@@ -8,3 +8,4 @@ conflict
 squash
 squash2
 squash3 
+rebase
