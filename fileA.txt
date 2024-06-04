@@ -7,3 +7,4 @@ restore --staged
 conflict
 squash
 squash2
+squash3
